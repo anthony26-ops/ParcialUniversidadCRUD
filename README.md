@@ -156,3 +156,7 @@ Datos visibles durante la prueba:
 - `secciones`: 2 registros
 - `alumnos_cursos`: 1 registro
 - `alumnos_seccion`: 1 registro
+
+<img width="1470" height="956" alt="Screenshot 2026-05-01 at 2 52 46 PM" src="https://github.com/user-attachments/assets/c7acf742-ac49-457b-9200-9a8129fc5a02" />
+<img width="1470" height="956" alt="Screenshot 2026-05-01 at 2 52 33 PM" src="https://github.com/user-attachments/assets/dd3cdc08-8392-410d-bf15-bdaaee4b18f1" />
+<img width="1470" height="956" alt="Screenshot 2026-05-01 at 2 52 27 PM" src="https://github.com/user-attachments/assets/895e2b18-3f24-4656-a8ee-431c17ec3749" />
